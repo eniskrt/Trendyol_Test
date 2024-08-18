@@ -4,21 +4,16 @@ import org.junit.jupiter.api.extension.ExtendWith;
 import org.openqa.selenium.NoSuchElementException;
 import pages.TrendyolPage;
 import org.openqa.selenium.Keys;
-import org.openqa.selenium.interactions.Actions;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 import utilities.ConfigReader;
 import utilities.Driver;
-
-import java.util.ArrayList;
 import java.util.Set;
 
 @ExtendWith(TestResultLogger.class)
 public class TrendyolTest {
 
     TrendyolPage trendyolPage=new TrendyolPage();
-    Actions actions=new Actions(Driver.getDriver());
-    ArrayList<String> selectedProductList = new ArrayList<>();
     String price;
 
     @Test(priority = 1)
@@ -126,7 +121,7 @@ public class TrendyolTest {
     }
     @Test(priority = 11)
     public void comparePriceWithPriceInCart() {
-        String priceInCart=trendyolPage.priceInCart.getText().substring(7);
+        String priceInCart=trendyolPage.priceInCart.getText();
         Assert.assertEquals(price,priceInCart);
     }
 

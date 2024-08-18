@@ -47,7 +47,7 @@ public class TrendyolPage {
     public WebElement goToCart;
     @FindBy(xpath = "//div[@class='tooltip-content']//button")
     public WebElement chooseUtilitiesPopupAggreeButton;
-    @FindBy(xpath = "//div[@class='pb-summary-total-price discount-active']")
+    @FindBy(xpath = "//div[@class='pb-basket-item-price']")
     public WebElement priceInCart;
     @FindBy(xpath = "//input[@class='counter-content']")
     public WebElement  numberOfProduct;

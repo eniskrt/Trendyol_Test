@@ -38,3 +38,48 @@
 2024-08-18 21:58:35,497 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
   C:\Users\user\AppData\Local\JetBrains\IdeaIC2024.2\temp-testng-customsuite.xml
 
+2024-08-18 22:34:51,282 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 127.0.6533.119 (resolved driver for Chrome 127)
+2024-08-18 22:34:51,302 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win64\127.0.6533.119\chromedriver.exe
+2024-08-18 22:34:52,343 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\AppData\Local\JetBrains\IdeaIC2024.2\temp-testng-customsuite.xml
+
+2024-08-18 22:35:50,841 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 127.0.6533.119 (resolved driver for Chrome 127)
+2024-08-18 22:35:50,887 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win64\127.0.6533.119\chromedriver.exe
+2024-08-18 22:35:51,922 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\AppData\Local\JetBrains\IdeaIC2024.2\temp-testng-customsuite.xml
+
+2024-08-18 22:37:31,955 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 127.0.6533.119 (resolved driver for Chrome 127)
+2024-08-18 22:37:31,998 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win64\127.0.6533.119\chromedriver.exe
+2024-08-18 22:37:33,034 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\AppData\Local\JetBrains\IdeaIC2024.2\temp-testng-customsuite.xml
+
+2024-08-18 22:49:48,932 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 127.0.6533.119 (resolved driver for Chrome 127)
+2024-08-18 22:49:48,970 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win64\127.0.6533.119\chromedriver.exe
+2024-08-18 22:49:50,036 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\AppData\Local\JetBrains\IdeaIC2024.2\temp-testng-customsuite.xml
+
+2024-08-18 22:51:43,845 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 127.0.6533.119 (resolved driver for Chrome 127)
+2024-08-18 22:51:43,922 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win64\127.0.6533.119\chromedriver.exe
+2024-08-18 22:51:45,246 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\AppData\Local\JetBrains\IdeaIC2024.2\temp-testng-customsuite.xml
+
+2024-08-18 22:54:55,987 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 127.0.6533.119 (resolved driver for Chrome 127)
+2024-08-18 22:54:56,070 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win64\127.0.6533.119\chromedriver.exe
+2024-08-18 22:54:57,275 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\AppData\Local\JetBrains\IdeaIC2024.2\temp-testng-customsuite.xml
+
+2024-08-18 22:57:05,722 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 127.0.6533.119 (resolved driver for Chrome 127)
+2024-08-18 22:57:05,771 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win64\127.0.6533.119\chromedriver.exe
+2024-08-18 22:57:06,821 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\AppData\Local\JetBrains\IdeaIC2024.2\temp-testng-customsuite.xml
+
+2024-08-18 22:58:26,749 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 127.0.6533.119 (resolved driver for Chrome 127)
+2024-08-18 22:58:26,777 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win64\127.0.6533.119\chromedriver.exe
+2024-08-18 22:58:27,867 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\AppData\Local\JetBrains\IdeaIC2024.2\temp-testng-customsuite.xml
+
+2024-08-18 23:01:33,385 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 127.0.6533.119 (resolved driver for Chrome 127)
+2024-08-18 23:01:33,428 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win64\127.0.6533.119\chromedriver.exe
+2024-08-18 23:01:34,495 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\AppData\Local\JetBrains\IdeaIC2024.2\temp-testng-customsuite.xml
+
