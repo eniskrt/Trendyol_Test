@@ -148,6 +148,7 @@ public class TrendyolTest {
         Thread.sleep(3000);
         trendyolPage.goToCart.click();
         Assert.assertTrue(trendyolPage.emptyCart.isDisplayed());
+        Driver.getDriver().quit();
     }
 
 }
